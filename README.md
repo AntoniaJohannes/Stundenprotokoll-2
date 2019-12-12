@@ -2,15 +2,15 @@
 
 ## Inhaltsverzeichnis
 
-[Mittwoch, 04.12.2019](#1)
+[1. Mittwoch, 04.12.2019](#1)
 
-[Donnerstag, 05.12.2019](#2)
+[2. Donnerstag, 05.12.2019](#2)
 
-[Dienstag, 10.12.2019](#3)
+[3. Dienstag, 10.12.2019](#3)
 
-[Mittwoch, 11.12.2019](#4)
+[4. Mittwoch, 11.12.2019](#4)
 
-[Donnerstag, 12.12.2019](#5)
+[5. Donnerstag, 12.12.2019](#5)
 
 []()
 
