@@ -12,9 +12,9 @@
 
 [5. Donnerstag, 12.12.2019](#5)
 
-[]()
+[6. Mittwoch, 18.12.2019](#6)
 
-[]()
+[7. Donnerstag, 19.12.2019](#7)
 
 
 ### Mittwoch, 04.12.2019<a name="1"></a>
@@ -41,5 +41,14 @@ g
 
 Die Projektfindung gestaltet sich weiterhin als schwierig, da in den letzten Stunden ausnahmslos immer einer von uns gefehlt hat. Entsprechend können wir uns im Rahmen des Unterrichts schlecht auf ein Programm einigen. Uns läuft allerdings langsam die Zeit davon, da wir zumindest mit Ideenfindung anfangen müssten. Da wir allerdings nicht einmal eine Domain festgelegt haben, mit der wir arbeiten wollen, haben wir ein ernst zu nehmendes Problem.
 
+
+### Mittwoch, 18.12.2019<a name="6"></a>
+
+Heute haben wir uns für eine Plattform für unser nächstes Projekt entschieden. Wir wollen diesmal weiterhin mit stdio.code.org arbeiten, diesmal aber mit AppLab. Um uns mit der Anwendung vertraut zu machen und einschätzen zu können, was damit möglich ist und was nicht, müssen wir vor Beginn wieder ein Tutorial durcharbeiten. Dies wird nun heute und morgen geschehen, um es dann über die Ferien abzuschließen.
+
+
+### Donnerstag, 19.12.2019<a name="7"></a>
+
+In der letzten Stunde vor den Ferien haben wir beide das Tutorial weitergeführt und unser Protokoll geschrieben, da wir dies gestern nicht gemacht hatten. Generell haben wir die Stunde heute für kleinere Dinge genutzt, da wir wie bereits erklärt erst richtig starten können, wenn wir mit dem Tutorial fertig sind.
 
 
