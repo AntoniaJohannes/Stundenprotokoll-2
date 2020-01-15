@@ -16,6 +16,10 @@
 
 [7. Donnerstag, 19.12.2019](#7)
 
+[8. Dienstag, 14.01.2020](#8)
+
+[9. Mittwoch, 15.01.2020](#9)
+
 
 ### Mittwoch, 04.12.2019<a name="1"></a>
 
@@ -24,17 +28,17 @@ Nachdem wir in den letzten Stunden die Projekte der anderen kennengelernt haben,
 
 ### Donnerstag, 05.12.2019<a name="2"></a>
 
-Heute haben wir mit Herrn Buhl gesprochen, um weitere Anregungen für ein nächstes Projekt zu sammeln. Nach seiner Meinung haben wir die Möglichkeiten des GameLabs ausgeschöpft und sollen uns nun mit einem neuen Programm befassen. Um uns einen Überblick zu verschaffen, haben wir uns auf studio.code.org weiter umgeschaut und in verschiedene Tutorials reingeklickt.
+Heute habe ich (Johannes) mit Herrn Buhl gesprochen, um weitere Anregungen für ein nächstes Projekt zu sammeln. Nach seiner Meinung haben wir die Möglichkeiten des GameLabs ausgeschöpft und sollen uns nun mit einem neuen Programm befassen. Um uns einen Überblick zu verschaffen, haben ich mir auf studio.code.org weiter umgeschaut und in verschiedene Tutorials reingeklickt.
 
 
 ### Dienstag, 10.12.2019<a name="3"></a>
 
-g
+An dem heutigen Tag war Johannes leider krank. Da ich (Antonia) in der letzten Zeit leider oft gefehlt habe hatten wir noch nicht die Möglichkeit, darüber zu Sprechen, wie wir weiterhin vorgehen sollen. Ich war noch nicht auf dem neusten Stand und bin davo ausgegangen das wir weiter an unserem vorherigen Projekt arbeiten, weshalb ich ein Brainstorming gemacht habe und überlegt habe, welche weiteren Funktionen unser Spiel haben könnte.
 
 
 ### Mittwoch, 11.12.2019<a name="4"></a>
 
-g
+In der heutigen Stunde war Johannes leider erneut krank. Ich habe mir zuhause noch weitere Gedanken gemacht und bin zu dewm Entschluss gekommen, vorerst einen Start- und Endbildschirm zu gestalten. Deshalb habe ich in dieser Stunde eine Skizze angefertigt. Der Startbildschirm hatte die Funktion das Spiel zu erklären. Das Ziel des Spiels sowie der Spielablauf und die einzelnen Icons (z.B. Münzen) sollten erläutert werden. Außerdem habe ich mir über einen möglichen Pausenbildschirm Gedanken gemacht. Wie sich herausgestellt hat arbeiten wir gar nicht an unserem Spiel weiter. Vielleicht können wir trotz dessen von meiner Skizze gebrauch machen.
 
 
 ### Donnerstag, 12.12.2019<a name="5"></a>
@@ -52,3 +56,9 @@ Heute haben wir uns für eine Plattform für unser nächstes Projekt entschieden
 In der letzten Stunde vor den Ferien haben wir beide das Tutorial weitergeführt und unser Protokoll geschrieben, da wir dies gestern nicht gemacht hatten. Generell haben wir die Stunde heute für kleinere Dinge genutzt, da wir wie bereits erklärt erst richtig starten können, wenn wir mit dem Tutorial fertig sind.
 
 
+### Dienstag, 14.01.2020<a name="8"></a>
+
+Am heutigen Tag war die 12b als Helferklasse bei Jugend debattiert zuständig, weshalb wir beide nicht am Informatikunterricht teilnahmen.
+
+
+### Mittwoch, 15.01.2020<a name="9"></a>
