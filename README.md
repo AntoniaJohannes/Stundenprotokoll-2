@@ -62,3 +62,8 @@ Am heutigen Tag war die 12b als Helferklasse bei Jugend debattiert zuständig, w
 
 
 ### Mittwoch, 15.01.2020<a name="9"></a>
+
+Heute ist die erste Informatikstunde im neuen Jahr für uns. Da wir in den Weihnachtsferien beide viel zutun hatten haben wir es nicht geschafft, das Tutorial zu beenden. Jedoch haben wir beide in den Ferien weiter daran gearbeitet. In der heutigen Unterrichtsstunde führen wir dies fort.
+
+
+### Donnerstag, 16.01.2020<a name="10"></a>
