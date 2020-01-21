@@ -20,6 +20,10 @@
 
 [9. Mittwoch, 15.01.2020](#9)
 
+[10. Donnerstag, 16.01.2020](#10)
+
+[11. Dienstag, 21.01.2020](#11)
+
 
 ### Mittwoch, 04.12.2019<a name="1"></a>
 
@@ -67,3 +71,10 @@ Heute ist die erste Informatikstunde im neuen Jahr für uns. Da wir in den Weihn
 
 
 ### Donnerstag, 16.01.2020<a name="10"></a>
+
+Wir haben das Tutorial weitergeführt.
+
+
+### Dienstag, 21.01.2020<a name="11"></a>
+
+Auch heute haben wir das Tutorial weitergeführt. Leider geht es etwas schleppend voran, da sich uns diese Sprache nicht vollständig erschließt, obwohl sie der anderen sehr ähnlich ist. Dementsprechend dauert es seine Zeit und macht auch wesentlich wenig Lust auf mehr.
