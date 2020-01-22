@@ -24,6 +24,8 @@
 
 [11. Dienstag, 21.01.2020](#11)
 
+[12. Mittwoch, 22.01.2020](#12)
+
 
 ### Mittwoch, 04.12.2019<a name="1"></a>
 
@@ -78,3 +80,8 @@ Wir haben das Tutorial weitergeführt.
 ### Dienstag, 21.01.2020<a name="11"></a>
 
 Auch heute haben wir das Tutorial weitergeführt. Leider geht es etwas schleppend voran, da sich uns diese Sprache nicht vollständig erschließt, obwohl sie der anderen sehr ähnlich ist. Dementsprechend dauert es seine Zeit und macht auch wesentlich wenig Lust auf mehr.
+
+
+### Mittwoch, 22.01.2020<a name="12"></a>
+
+In der heutigen Stunde haben wir weiter am Tutorial gearbeitet. Obwohl wir beide Zuhause weitergearbeitet haben, haben wir das Gefühl, dass das Tutorial noch viel Zeit in Anspruch nehmen wird. Wir haben die Befürchtung, dass wir es bis Ende des Halbjahres nicht schaffen, wieder so ein komplexes Projekt auf die Beine zu stellen, zumal dieses Halbjahr wesentlich kürzer ist und die Abiturprüfungen immer näher rücken.
