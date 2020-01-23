@@ -26,6 +26,8 @@
 
 [12. Mittwoch, 22.01.2020](#12)
 
+[13. Donnerstag, 23.01.2020](#13)
+
 
 ### Mittwoch, 04.12.2019<a name="1"></a>
 
@@ -85,3 +87,7 @@ Auch heute haben wir das Tutorial weitergeführt. Leider geht es etwas schleppen
 ### Mittwoch, 22.01.2020<a name="12"></a>
 
 In der heutigen Stunde haben wir weiter am Tutorial gearbeitet. Obwohl wir beide Zuhause weitergearbeitet haben, haben wir das Gefühl, dass das Tutorial noch viel Zeit in Anspruch nehmen wird. Wir haben die Befürchtung, dass wir es bis Ende des Halbjahres nicht schaffen, wieder so ein komplexes Projekt auf die Beine zu stellen, zumal dieses Halbjahr wesentlich kürzer ist und die Abiturprüfungen immer näher rücken.
+
+
+### Donnerstag, 23.01.2020<a name="13"></a>
+
