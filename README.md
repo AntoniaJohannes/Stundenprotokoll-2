@@ -91,3 +91,26 @@ In der heutigen Stunde haben wir weiter am Tutorial gearbeitet. Obwohl wir beide
 
 ### Donnerstag, 23.01.2020<a name="13"></a>
 
+Heute haben wir weiter am Tutorial gearbeitet.
+
+
+### Dienstag, 28.01.2020<a name="14"></a>
+
+Heute war Antonia leider krank und ich (Johannes) habe das Tutorial weitergeführt.
+
+
+### Mittwoch, 29.01.2020<a name="15"></a>
+
+Heute ist Informatik leider ausgefallen
+
+
+### Donnerstag, 30.01.2020<a name="16"></a>
+
+Heute fiel Informatik leider erneut aus.
+
+
+### Dienstag, 04.02.2020<a name="17"></a>
+
+Heute haben wir beide wieder am Tutorial gearbeitet.
+
+
