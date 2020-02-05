@@ -30,13 +30,13 @@
 
 [14. Dienstag, 28.01.2020](#14)
 
-[]()
+[15. Mittwoch, 29.01.2020](#15)
 
-[]()
+[16. Donnerstag 30.01.2020](#16)
 
-[]()
+[17. Dienstag, 04.02.2020](#17)
 
-[]()
+[18. Mittwoch, 05.02.2020](#18)
 
 ### Mittwoch, 04.12.2019<a name="1"></a>
 
@@ -123,3 +123,4 @@ Heute fiel Informatik leider erneut aus.
 Heute haben wir beide wieder am Tutorial gearbeitet.
 
 
+### Mittwoch, 05.02.2020<a name="18"></a>
