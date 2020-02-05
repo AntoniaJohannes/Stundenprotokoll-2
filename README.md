@@ -124,3 +124,5 @@ Heute haben wir beide wieder am Tutorial gearbeitet.
 
 
 ### Mittwoch, 05.02.2020<a name="18"></a>
+
+Wir haben weiterhin das Tutorial bearbeitet. Wir sind jedoch in naher Zukunft damit fertig und können uns der Programmierung des Projekts in Form einer App zuwenden.
