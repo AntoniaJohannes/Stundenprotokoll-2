@@ -38,6 +38,8 @@
 
 [18. Mittwoch, 05.02.2020](#18)
 
+[19. Donnerstag 06.02.2020](#19) 
+
 ### Mittwoch, 04.12.2019<a name="1"></a>
 
 Nachdem wir in den letzten Stunden die Projekte der anderen kennengelernt haben, beginnt heute die Arbeit am nächsten Projekt. Zwecks Ideenfindung haben wir uns auf studio.code.org umgesehen und auch weitere Ideen gesammelt.
@@ -126,3 +128,8 @@ Heute haben wir beide wieder am Tutorial gearbeitet.
 ### Mittwoch, 05.02.2020<a name="18"></a>
 
 Wir haben weiterhin das Tutorial bearbeitet. Wir sind jedoch in naher Zukunft damit fertig und können uns der Programmierung des Projekts in Form einer App zuwenden.
+
+
+### Donnerstag, 06.02.2020<a name="19"></a>
+
+In der heutigen Stunde haben wir das Tutorial fortgeführt.
