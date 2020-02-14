@@ -1,4 +1,4 @@
-# Stundenprotokoll 12/2
+# Stundenprotokoll 12/2: Spotted!
 
 ## Inhaltsverzeichnis
 
