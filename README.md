@@ -133,3 +133,18 @@ Wir haben weiterhin das Tutorial bearbeitet. Wir sind jedoch in naher Zukunft da
 ### Donnerstag, 06.02.2020<a name="19"></a>
 
 In der heutigen Stunde haben wir das Tutorial fortgeführt.
+
+
+### Mittwoch, 12.02.2020
+
+Heute haben wir mit dem Programmieren unseres Projekts in Form einer App begonnen. Wir haben uns dazu entschieden, eine App zu programmieren, bei welcher man in einem Suchbild 9 Fehler finden muss. Nach kurzer Überlegung haben wir uns für den Namen "Spotted!" entschieden. 
+Zunächst haben wir uns ein Grundgerüst unserer App überlegt. Wir legten vier verschiedene Screens an, um dem Spiel eine übersichtliche Struktur zu geben. 
+
+Danach haben wir den WelcomeScreen und den GameOverScreen sowie den CongratsScreen programmiert und gestaltet.
+
+### Donnerstag, 13.02.2020
+
+
+
+
+### Freitag, 14.02.2020
