@@ -150,6 +150,10 @@ Zunächst haben wir uns ein Grundgerüst unserer App überlegt. Wir legten vier 
 
 Danach haben wir den WelcomeScreen und den GameOverScreen sowie den CongratsScreen programmiert und gestaltet. Morgen werden wir uns dem GameScreen zuwenden.
 
+https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/CongratsScreen.PNG
+
+CongratsScreen
+
 ### Donnerstag, 13.02.2020<a name="21"></a>
 
 In der heutigen Stunde haben wir uns dem GameScreen gewidmet. Wir haben im Internet ein Suchbild herausgesucht und die Fehler mit Buttons markiert. Anschließend haben wir die Buttons durchsichtig gemacht, damit sie die Fehler nicht offensichtlich machen. Danach haben wir den Code programmiert, der das Finden der Fehler codiert. Hierbei haben wir onEvent Befehle verwendet.
