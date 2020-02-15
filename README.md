@@ -150,7 +150,7 @@ Zunächst haben wir uns ein Grundgerüst unserer App überlegt. Wir legten vier 
 
 Danach haben wir den WelcomeScreen und den GameOverScreen sowie den CongratsScreen programmiert und gestaltet. Morgen werden wir uns dem GameScreen zuwenden.
 
-https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/CongratsScreen.PNG
+![CongratsScreen](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/CongratsScreen.PNG)
 
 CongratsScreen
 
