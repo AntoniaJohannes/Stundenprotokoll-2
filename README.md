@@ -154,6 +154,8 @@ Danach haben wir den WelcomeScreen und den GameOverScreen sowie den CongratsScre
 
 CongratsScreen
 
+![WelcomeScreen](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/WelcomeScreen.PNG)
+
 ### Donnerstag, 13.02.2020<a name="21"></a>
 
 In der heutigen Stunde haben wir uns dem GameScreen gewidmet. Wir haben im Internet ein Suchbild herausgesucht und die Fehler mit Buttons markiert. Anschließend haben wir die Buttons durchsichtig gemacht, damit sie die Fehler nicht offensichtlich machen. Danach haben wir den Code programmiert, der das Finden der Fehler codiert. Hierbei haben wir onEvent Befehle verwendet.
