@@ -174,7 +174,13 @@ Das Suchbild
 
 Fehler mit Buttons markiert
 
-Anschließend haben wir die Buttons durchsichtig gemacht, damit sie die Fehler nicht offensichtlich machen. Danach haben wir den Code programmiert, der das Finden der Fehler codiert. Hierbei haben wir onEvent Befehle verwendet.
+Anschließend haben wir die Buttons durchsichtig gemacht, damit sie die Fehler nicht offensichtlich machen. 
+
+![Unsichtbare Buttons](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/Mit%20Buttonr%C3%A4ndern.PNG)
+
+Buttons noch mit Rändern sichtbar, ansonsten sind sie unsichtbar.
+
+Danach haben wir den Code programmiert, der das Finden der Fehler codiert. Hierbei haben wir onEvent Befehle verwendet.
 Zuletzt haben wir einen Counter eingeführt, der die gefundenen Fehler zählt und so das Spiel beim letzten gefundenen Fehler beendet. ein Problem ist noch, dass man einen Fehler mehrfach anklicken kann und so das Spiel austricksen kann. Außerdem müssen wir noch Leben einführen, damit man ncith wahllos auf das Bild klicken kann.
 
 
