@@ -140,11 +140,17 @@ In der heutigen Stunde haben wir das Tutorial fortgeführt.
 Heute haben wir mit dem Programmieren unseres Projekts in Form einer App begonnen. Wir haben uns dazu entschieden, eine App zu programmieren, bei welcher man in einem Suchbild 9 Fehler finden muss. Nach kurzer Überlegung haben wir uns für den Namen "Spotted!" entschieden. 
 Zunächst haben wir uns ein Grundgerüst unserer App überlegt. Wir legten vier verschiedene Screens an, um dem Spiel eine übersichtliche Struktur zu geben. 
 
-Danach haben wir den WelcomeScreen und den GameOverScreen sowie den CongratsScreen programmiert und gestaltet.
+Danach haben wir den WelcomeScreen und den GameOverScreen sowie den CongratsScreen programmiert und gestaltet. Morgen werden wir uns dem GameScreen zuwenden.
 
 ### Donnerstag, 13.02.2020
 
-
+In der heutigen Stunde haben wir uns dem GameScreen gewidmet. Wir haben im Internet ein Suchbild herausgesucht und die Fehler mit Buttons markiert. Anschließend haben wir die Buttons durchsichtig gemacht, damit sie die Fehler nicht offensichtlich machen. Danach haben wir den Code programmiert, der das Finden der Fehler codiert. Hierbei haben wir onEvent Befehle verwendet.
+Zuletzt haben wir einen Counter eingeführt, der die gefundenen Fehler zählt und so das Spiel beim letzten gefundenen Fehler beendet. ein Problem ist noch, dass man einen Fehler mehrfach anklicken kann und so das Spiel austricksen kann. Außerdem müssen wir noch Leben einführen, damit man ncith wahllos auf das Bild klicken kann.
 
 
 ### Freitag, 14.02.2020
+
+Heute haben wir uns der Problemlösung zugewendet. Wir haben die Buttons, die die Fehler markieren, beim Klicken verschwinden lassen, damit man sie nicht mehrfach "Finden" kann. Anschließend haben wir einen großen Button eingeführt, der hinter den Fehlerbuttons liegt, um so die Leben zu zählen. Bei Misclicks klickt man nun auf den großen Button und verliert dann ein Leben, verliert man alle drei, ist das Spiel beendet. 
+Um das Spiel neu starten zu köennen, müssen alle Buttons, die durch das Gefundenwerden verschwunden sind, wieder erscheinen. Dies haben wir heute ebenfalls programmiert. 
+Das Spiel ist nun an und für sich voll funktionsfähig und wir können uns nun der Optimierung zuwenden. Beispiele wären ein Highscoreboard für die Zeit, die man gebraucht hat oder bestätigende Töne, die beim Finden erklingen. Damit werden wir uns in den nächsten Stunden auseinandersetzen.
+
