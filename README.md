@@ -164,7 +164,13 @@ GameOverScreen
 
 ### Donnerstag, 13.02.2020<a name="21"></a>
 
-In der heutigen Stunde haben wir uns dem GameScreen gewidmet. Wir haben im Internet ein Suchbild herausgesucht und die Fehler mit Buttons markiert. Anschließend haben wir die Buttons durchsichtig gemacht, damit sie die Fehler nicht offensichtlich machen. Danach haben wir den Code programmiert, der das Finden der Fehler codiert. Hierbei haben wir onEvent Befehle verwendet.
+In der heutigen Stunde haben wir uns dem GameScreen gewidmet. Wir haben im Internet ein Suchbild herausgesucht und die Fehler mit Buttons markiert.
+
+![suchbild](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/Suchbild.jpg)
+
+Das Suchbild
+
+Anschließend haben wir die Buttons durchsichtig gemacht, damit sie die Fehler nicht offensichtlich machen. Danach haben wir den Code programmiert, der das Finden der Fehler codiert. Hierbei haben wir onEvent Befehle verwendet.
 Zuletzt haben wir einen Counter eingeführt, der die gefundenen Fehler zählt und so das Spiel beim letzten gefundenen Fehler beendet. ein Problem ist noch, dass man einen Fehler mehrfach anklicken kann und so das Spiel austricksen kann. Außerdem müssen wir noch Leben einführen, damit man ncith wahllos auf das Bild klicken kann.
 
 
