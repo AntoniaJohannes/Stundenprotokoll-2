@@ -40,6 +40,14 @@
 
 [19. Donnerstag 06.02.2020](#19) 
 
+[20. Mittwoch, 12.02.2020](#20)
+
+[21. Donnerstag, 13.02.2020](#21)
+
+[22. Freitag, 14.02.2020](#22)
+
+[]()
+
 ### Mittwoch, 04.12.2019<a name="1"></a>
 
 Nachdem wir in den letzten Stunden die Projekte der anderen kennengelernt haben, beginnt heute die Arbeit am nächsten Projekt. Zwecks Ideenfindung haben wir uns auf studio.code.org umgesehen und auch weitere Ideen gesammelt.
@@ -135,20 +143,20 @@ Wir haben weiterhin das Tutorial bearbeitet. Wir sind jedoch in naher Zukunft da
 In der heutigen Stunde haben wir das Tutorial fortgeführt.
 
 
-### Mittwoch, 12.02.2020
+### Mittwoch, 12.02.2020<a name="20"></a>
 
 Heute haben wir mit dem Programmieren unseres Projekts in Form einer App begonnen. Wir haben uns dazu entschieden, eine App zu programmieren, bei welcher man in einem Suchbild 9 Fehler finden muss. Nach kurzer Überlegung haben wir uns für den Namen "Spotted!" entschieden. 
 Zunächst haben wir uns ein Grundgerüst unserer App überlegt. Wir legten vier verschiedene Screens an, um dem Spiel eine übersichtliche Struktur zu geben. 
 
 Danach haben wir den WelcomeScreen und den GameOverScreen sowie den CongratsScreen programmiert und gestaltet. Morgen werden wir uns dem GameScreen zuwenden.
 
-### Donnerstag, 13.02.2020
+### Donnerstag, 13.02.2020<a name="21"></a>
 
 In der heutigen Stunde haben wir uns dem GameScreen gewidmet. Wir haben im Internet ein Suchbild herausgesucht und die Fehler mit Buttons markiert. Anschließend haben wir die Buttons durchsichtig gemacht, damit sie die Fehler nicht offensichtlich machen. Danach haben wir den Code programmiert, der das Finden der Fehler codiert. Hierbei haben wir onEvent Befehle verwendet.
 Zuletzt haben wir einen Counter eingeführt, der die gefundenen Fehler zählt und so das Spiel beim letzten gefundenen Fehler beendet. ein Problem ist noch, dass man einen Fehler mehrfach anklicken kann und so das Spiel austricksen kann. Außerdem müssen wir noch Leben einführen, damit man ncith wahllos auf das Bild klicken kann.
 
 
-### Freitag, 14.02.2020
+### Freitag, 14.02.2020<a name="22"></a>
 
 Heute haben wir uns der Problemlösung zugewendet. Wir haben die Buttons, die die Fehler markieren, beim Klicken verschwinden lassen, damit man sie nicht mehrfach "Finden" kann. Anschließend haben wir einen großen Button eingeführt, der hinter den Fehlerbuttons liegt, um so die Leben zu zählen. Bei Misclicks klickt man nun auf den großen Button und verliert dann ein Leben, verliert man alle drei, ist das Spiel beendet. 
 Um das Spiel neu starten zu köennen, müssen alle Buttons, die durch das Gefundenwerden verschwunden sind, wieder erscheinen. Dies haben wir heute ebenfalls programmiert. 
