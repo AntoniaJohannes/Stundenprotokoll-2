@@ -190,3 +190,12 @@ Heute haben wir uns der Problemlösung zugewendet. Wir haben die Buttons, die di
 Um das Spiel neu starten zu köennen, müssen alle Buttons, die durch das Gefundenwerden verschwunden sind, wieder erscheinen. Dies haben wir heute ebenfalls programmiert. 
 Das Spiel ist nun an und für sich voll funktionsfähig und wir können uns nun der Optimierung zuwenden. Beispiele wären ein Highscoreboard für die Zeit, die man gebraucht hat oder bestätigende Töne, die beim Finden erklingen. Damit werden wir uns in den nächsten Stunden auseinandersetzen.
 
+
+### Mittwoch, 19.02.2020<a name="23"></a>
+
+In der heutigen Stunde haben wir an dem Scoreboard gearbeitet. Zunächst haben wir zwei getTime Befehle eingefügt, um die Zeit zu messen, die für das Fehlerfinden benötigt wurde. Anschließend wollten wir das Scoreboard einfügen, allerdings haben wir im Moment keine Ahnung, wie wir eines programmieren sollen. Das Hauptproblem liegt beim Sortieren der einzelnen Zeiten nach Größe und das Aufrücken der unteren Scores beim Aktualisieren.
+
+
+### Donnerstag, 20.02.2020<a name="24"></a>
+
+Die heutige Stunde haben wir dem Einfügen von Tönen beim erfolgreichen Spotten gewidmet. Wir haben playSound Befehle eingefügt und uns für einen Ton entschieden. Nun mussten wir noch programmieren, dass der Ton nur ein einziges Mal abgespielt wird.
