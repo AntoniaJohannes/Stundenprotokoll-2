@@ -199,3 +199,12 @@ In der heutigen Stunde haben wir an dem Scoreboard gearbeitet. Zunächst haben w
 ### Donnerstag, 20.02.2020<a name="24"></a>
 
 Die heutige Stunde haben wir dem Einfügen von Tönen beim erfolgreichen Spotten gewidmet. Wir haben playSound Befehle eingefügt und uns für einen Ton entschieden. Nun mussten wir noch programmieren, dass der Ton nur ein einziges Mal abgespielt wird.
+
+
+### Freitag, 06.03.2020<a name="25"></a>
+
+Nachdem Informatik lange ausgefallen ist, haben wir heute den Highscore teils gefixt. Nun funktioniert die anfängliche Aufzeichnung und auch die Einsortierung bei neuen Scores, allerdings wird zu Beginn teilweise ein Wert zweimal eingetragen, was natürlich nicht gewollt ist. Nächstes Mal müssen wir uns dieses Problem näher ansehen.
+
+
+### Mittwoch, 11.03.2020<a name="26"></a>
+
