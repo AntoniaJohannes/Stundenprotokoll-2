@@ -46,7 +46,15 @@
 
 [22. Freitag, 14.02.2020](#22)
 
-[]()
+[23. Mittwoch, 19.02.2020](#23)
+
+[24. Donnerstag, 20.02.2020](#24)
+
+[25. Freitag, 06.03.2020](#25)
+
+[26. Mittwoch, 11.03.2020](#26)
+
+[27. Freitag, 13.03.2020](#27)
 
 ### Mittwoch, 04.12.2019<a name="1"></a>
 
@@ -210,3 +218,8 @@ Nachdem Informatik lange ausgefallen ist, haben wir heute den Highscore teils ge
 
 Heute haben wir uns diesem bekannten Problem befasst. Wir haben eine weitere Seconds eingeführt, um die Zeit vernünftig anzuzeigen. Anschließend haben wir den HighscoreScreen fertig designt, um im Anschluss zu programmieren, dass die Scores nur angezeigt werden, wenn eine bestimmte Anzahl Spiele gespielt wurde. Dadurch ist die doppelte Eintragung zwar nach wie vor vorhanden, ist durch die eingeschränkte Sichtbarkeit des Scoreboards aber egal. 
 Das Scoreboard ist nun voll funktionsfähig.
+
+
+### Freitag, 13.03.2020<a name="27"></a>
+
+Da unser Projekt in unseren Augen seit Mittwoch abgeschlossen ist, nutzen wir die verbleibenden Stunden, um bereits an unserer Projektseite zu schreiben. Anlässlich der Schulschließungen wegen Corona ist sowieso unklar, ob und wie viele Unterrichtsstunden überhaupt noch vor der Abgabe des Projekts stattfinden werden. 
