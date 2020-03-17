@@ -201,9 +201,11 @@ Heute haben wir uns der Problemlösung zugewendet. Wir haben die Buttons, die di
 
 ![F1Button](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/F1%20Button.PNG)
 
+![Misclick](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/Misclickfunktion.PNG)
+
 Um das Spiel neu starten zu können, müssen alle Buttons, die durch das Gefundenwerden verschwunden sind, wieder erscheinen. Dies haben wir heute ebenfalls programmiert. 
 
-![Misclick](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/Misclickfunktion.PNG)
+
 
 Das Spiel ist nun an und für sich voll funktionsfähig und wir können uns nun der Optimierung zuwenden. Beispiele wären ein Highscoreboard für die Zeit, die man gebraucht hat oder bestätigende Töne, die beim Finden erklingen. Damit werden wir uns in den nächsten Stunden auseinandersetzen.
 
