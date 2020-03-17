@@ -205,7 +205,7 @@ Heute haben wir uns der Problemlösung zugewendet. Wir haben die Buttons, die di
 
 Um das Spiel neu starten zu können, müssen alle Buttons, die durch das Gefundenwerden verschwunden sind, wieder erscheinen. Dies haben wir heute ebenfalls programmiert. 
 
-
+![Restart](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/Restartfunktion.PNG)
 
 Das Spiel ist nun an und für sich voll funktionsfähig und wir können uns nun der Optimierung zuwenden. Beispiele wären ein Highscoreboard für die Zeit, die man gebraucht hat oder bestätigende Töne, die beim Finden erklingen. Damit werden wir uns in den nächsten Stunden auseinandersetzen.
 
