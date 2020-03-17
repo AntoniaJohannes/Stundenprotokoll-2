@@ -219,6 +219,13 @@ In der heutigen Stunde haben wir an dem Scoreboard gearbeitet. Zunächst haben w
 
 Die heutige Stunde haben wir dem Einfügen von Tönen beim erfolgreichen Spotten gewidmet. Wir haben playSound Befehle eingefügt und uns für einen Ton entschieden. Nun mussten wir noch programmieren, dass der Ton nur ein einziges Mal abgespielt wird.
 
+![Töne markiert Spotted](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/Spottedfunktion%20mit%20Pfeilen.png)
+
+![Töne markiert Misclick](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/Misclickfunktion%20mit%20Pfeilen.png)
+
+![Töne markiert Endgame](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/Endgamefunktion%20mit%20Pfeilen.png)
+
+
 
 ### Freitag, 06.03.2020<a name="25"></a>
 
