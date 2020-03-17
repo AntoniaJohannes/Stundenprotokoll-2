@@ -198,7 +198,13 @@ Zuletzt haben wir einen Counter eingeführt, der die gefundenen Fehler zählt un
 ### Freitag, 14.02.2020<a name="22"></a>
 
 Heute haben wir uns der Problemlösung zugewendet. Wir haben die Buttons, die die Fehler markieren, beim Klicken verschwinden lassen, damit man sie nicht mehrfach "Finden" kann. Anschließend haben wir einen großen Button eingeführt, der hinter den Fehlerbuttons liegt, um so die Leben zu zählen. Bei Misclicks klickt man nun auf den großen Button und verliert dann ein Leben, verliert man alle drei, ist das Spiel beendet. 
-Um das Spiel neu starten zu köennen, müssen alle Buttons, die durch das Gefundenwerden verschwunden sind, wieder erscheinen. Dies haben wir heute ebenfalls programmiert. 
+
+![F1Button](https://github.com/AntoniaJohannes/Stundenprotokoll-2/blob/master/F1%20Button.PNG)
+
+Um das Spiel neu starten zu können, müssen alle Buttons, die durch das Gefundenwerden verschwunden sind, wieder erscheinen. Dies haben wir heute ebenfalls programmiert. 
+
+
+
 Das Spiel ist nun an und für sich voll funktionsfähig und wir können uns nun der Optimierung zuwenden. Beispiele wären ein Highscoreboard für die Zeit, die man gebraucht hat oder bestätigende Töne, die beim Finden erklingen. Damit werden wir uns in den nächsten Stunden auseinandersetzen.
 
 
