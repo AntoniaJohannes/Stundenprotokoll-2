@@ -240,4 +240,4 @@ Das Scoreboard ist nun voll funktionsfähig.
 
 ### Freitag, 13.03.2020<a name="27"></a>
 
-Da unser Projekt in unseren Augen seit Mittwoch abgeschlossen ist, nutzen wir die verbleibenden Stunden, um bereits an unserer Projektseite zu schreiben. Anlässlich der Schulschließungen wegen Corona ist sowieso unklar, ob und wie viele Unterrichtsstunden überhaupt noch vor der Abgabe des Projekts stattfinden werden. 
+Da unser Projekt in unseren Augen seit Mittwoch abgeschlossen ist, nutzen wir die verbleibenden Stunden, um bereits an unserer Projektseite zu schreiben. Anlässlich der Schulschließungen wegen des Coronavirus ist sowieso unklar, ob und wie viele Unterrichtsstunden überhaupt noch vor der Abgabe des Projekts stattfinden werden. 
