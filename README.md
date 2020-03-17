@@ -216,7 +216,7 @@ Nachdem Informatik lange ausgefallen ist, haben wir heute den Highscore teils ge
 
 ### Mittwoch, 11.03.2020<a name="26"></a>
 
-Heute haben wir uns diesem bekannten Problem befasst. Wir haben eine weitere Seconds eingeführt, um die Zeit vernünftig anzuzeigen. Anschließend haben wir den HighscoreScreen fertig designt, um im Anschluss zu programmieren, dass die Scores nur angezeigt werden, wenn eine bestimmte Anzahl Spiele gespielt wurde. Dadurch ist die doppelte Eintragung zwar nach wie vor vorhanden, ist durch die eingeschränkte Sichtbarkeit des Scoreboards aber egal. 
+Heute haben wir uns diesem bekannten Problem befasst. Wir haben eine weitere Variable "Seconds" eingeführt, um die Zeit vernünftig anzuzeigen. Anschließend haben wir den HighscoreScreen fertig designt, um im Anschluss zu programmieren, dass die Scores nur angezeigt werden, wenn eine bestimmte Anzahl Spiele gespielt wurde. Dadurch ist die doppelte Eintragung zwar nach wie vor vorhanden, ist durch die eingeschränkte Sichtbarkeit des Scoreboards aber egal. 
 Das Scoreboard ist nun voll funktionsfähig.
 
 
